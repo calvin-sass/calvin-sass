@@ -1,3 +1,5 @@
+<img src="./github-header-image.png" alt="Banner" style="width:100%;"/>
+
 # 💫 About Me:
 
 - 🔭 I’m currently working on exploring how AI can be used to solve real-world problems in education, agriculture, and daily life.
